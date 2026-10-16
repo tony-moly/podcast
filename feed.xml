@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>Не совсем обычно</title>
+    <title>Палата 404</title>
     <link>https://podcast.vfamilii.ru/</link>
     <atom:link href="https://podcast.vfamilii.ru/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ru</language>
-    <description>Подкаст о границах реальности, которые мы уже начинаем пересекать. Технологии, власть, деньги и реклама – с иронией и без паники.</description>
-    <itunes:summary>Подкаст о границах реальности, которые мы уже начинаем пересекать. Технологии, власть, деньги и реклама – с иронией и без паники.</itunes:summary>
-    <itunes:author>Тони</itunes:author>
-    <itunes:owner><itunes:name>Тони</itunes:name><itunes:email></itunes:email></itunes:owner>
+    <description>Подкаст из палаты, где лечат от цифровой реальности. Технологии, власть, деньги и реклама: разбираем то, что уже сломалось, но почему-то продолжает работать.</description>
+    <itunes:summary>Подкаст из палаты, где лечат от цифровой реальности. Технологии, власть, деньги и реклама: разбираем то, что уже сломалось, но почему-то продолжает работать.</itunes:summary>
+    <itunes:author>Палата 404</itunes:author>
+    <itunes:owner><itunes:name>Палата 404</itunes:name><itunes:email></itunes:email></itunes:owner>
     <itunes:image href="https://podcast.vfamilii.ru/cover.jpg"/>
-    <image><url>https://podcast.vfamilii.ru/cover.jpg</url><title>Не совсем обычно</title><link>https://podcast.vfamilii.ru/</link></image>
+    <image><url>https://podcast.vfamilii.ru/cover.jpg</url><title>Палата 404</title><link>https://podcast.vfamilii.ru/</link></image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
