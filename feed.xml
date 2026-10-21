@@ -14,7 +14,7 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <podcast:locked>yes</podcast:locked>
+    <podcast:locked>no</podcast:locked>
     <item>
       <title>Кто владеет агентом, тот получает ваши деньги</title>
       <guid isPermaLink="false">tony-moly/podcast/2026-10-21</guid>
