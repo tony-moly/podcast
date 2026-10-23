@@ -11,7 +11,9 @@
     <itunes:owner><itunes:name>Палата 404</itunes:name><itunes:email>wifavawico29@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://podcast.vfamilii.ru/cover.jpg"/>
     <image><url>https://podcast.vfamilii.ru/cover.jpg</url><title>Палата 404</title><link>https://podcast.vfamilii.ru/</link></image>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:category text="Society &amp; Culture"></itunes:category>
+    <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
